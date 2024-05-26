@@ -60,6 +60,7 @@ CI/CD environments.
   * [Trivy]
   * [OSV]
   * [VulnDB] from [Risk Based Security]
+  * [Vulert]
   * More coming soon.
 * Helps to prioritize mitigation by incorporating support for the [Exploit Prediction Scoring System (EPSS)](https://www.first.org/epss/)
 * Maintain a private vulnerability database of vulnerability components
@@ -207,6 +208,7 @@ the [notices] file for more information.
   [Trivy]: https://www.aquasec.com/products/trivy/
   [OSV]: https://osv.dev
   [VulnDB]: https://vulndb.cyberriskanalytics.com
+  [Vulert]: https://vulert.com/
   [Risk Based Security]: https://www.riskbasedsecurity.com
   [Component Analysis]: https://owasp.org/www-community/Component_Analysis
   [Software Bill of Materials]: https://owasp.org/www-community/Component_Analysis#software-bill-of-materials-sbom
